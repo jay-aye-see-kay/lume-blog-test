@@ -1,5 +1,6 @@
 ---
 layout: layouts/post.njk
+url: /about/
 title: About Me
 templateClass: tmpl-post
 menu:
